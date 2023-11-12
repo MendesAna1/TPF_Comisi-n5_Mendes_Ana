@@ -9,6 +9,8 @@ Los métodos de la clase Estrategia que Ud. debe implementar son:
 3. Consulta2 (ArbolGeneral<Planeta> arbol): Retorna un texto con el listado de los planetas ubicados en todos los descendientes del nodo que contiene al planeta del Bot.
 4. Consulta3 (ArbolGeneral<Planeta> arbol): Calcula y retorna en un texto la población total y promedio por cada nivel del árbol.
 Las clases con la implementación del juego provista por la catedra a fin de simplificar la construcción del mismo.
+
+
 A continuación, se detallan los métodos de las clases Planeta y Movimiento que Ud. necesitará para desarrollar lo solicitado:
 Clase Planeta
 − bool EsPlanetaDeLaIA(): Si el planeta pertenece al Bot retorna true y false en caso contrario.
